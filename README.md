@@ -19,7 +19,7 @@ Step 6: Use the R button to change the level2.
 Step 7 Print the Output and end the program.
 
 ## Program:
-## NAMDEVELOPED BY : AHALYA S
+## DEVELOPED BY : AHALYA S
 ## REG NO : 212223230006
 
 ```
